@@ -312,7 +312,7 @@ p { color: var(--ink-soft); }
 
 .hero h1 span { color: var(--copper); }
 
-.hero .lede { margin-bottom: var(--gap-m); color: var(--ink-soft); }
+.hero .lede { margin-bottom: var(--gap-m); }
 
 .hero-actions {
   display: flex;
